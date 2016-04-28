@@ -1,4 +1,5 @@
 {
   "name": "smsapi-d-client",
+  "description": "SMSAPI D Client",
   "license": "MIT"
 }
